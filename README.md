@@ -1,5 +1,5 @@
 # Setup WTSN on Raspberry PI compute module 4
-
+## hallo
 # Hardware MYIR FZ3
 https://www.myirtech.com/list.asp?id=630
  
